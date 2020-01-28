@@ -21,6 +21,8 @@ Pourquoi Visual Studio 2019? C'est la dernière version disponible et la version
 - [Indent Guides](https://marketplace.visualstudio.com/items?itemName=SteveDowerMSFT.IndentGuides)
 - [Visual Studio Spell Checker (VS2017 and Later)](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
 
+__Voir les [configurations à faire](https://github.com/alexis35115/ConfigurationExtensionsVS)__.
+
 ## Git
 
 Git sera le contrôleur de code source utilisé dans le cadre du cours.
